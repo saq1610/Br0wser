@@ -1,0 +1,15 @@
+dependencies:
+- rpm:
+  - python${py3}
+- rpm:
+  - glade
+  - gtk3
+  - pygobject2
+  - pygobject3
+devassistant_version: 0.9.3
+original_kwargs:
+  github: !!python/unicode 'saq1610'
+  name: !!python/unicode '/home/saqeef/Br0wser'
+project_type:
+- python
+- gtk3
